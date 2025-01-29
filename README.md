@@ -1,4 +1,8 @@
 # 🐍 emojdule
+![PyPI](https://img.shields.io/pypi/v/emojdule)
+![PyPI - License](https://img.shields.io/pypi/l/emojdule)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/emojdule)
+![Tests](https://github.com/hmiladhia/emojdule/actions/workflows/quality.yaml/badge.svg)
 
 Import Python modules with snake emoji extension!
 
