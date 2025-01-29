@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: ba62ae3
+_src_path: https://github.com/hmiladhia/package-template
+author: Dhia Hmila
+distribution_name: emojdule
+organisation: hmiladhia
+package_name: emojdule
+project_name: emojdule
+project_version: 0.0.1
+use_mypy: true
+use_precommit: true
+use_tox: true
+use_uv: true
