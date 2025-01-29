@@ -3,10 +3,10 @@ name = "emojdule"
 authors = [
   {name = "Dhia Hmila"},
 ]
-description = ""
+description = "Import Python modules with snake emoji extension"
 license = {text = "MIT License"}
-requires-python = ">=3.9"
-keywords = []
+requires-python = ">=3.6"
+keywords = ["import", "emoji"]
 readme = "README.md"
 dynamic = ['version']
 classifiers = [
